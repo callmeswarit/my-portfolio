@@ -89,7 +89,7 @@ body{
     height: 50px;
     width: 200px;
 }
-.state img1{
+/* .state img1{
 
     border: 2px solid rgb(0, 0, 15);
     margin-top:20px;
@@ -101,7 +101,8 @@ body{
     float: center;
 /*     margin-right: 10px; */
     box-shadow: 10px 10px 10px gray;
-}
+} */
+
 .fam{
 
     font-family: cursive;
