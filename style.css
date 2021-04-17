@@ -89,19 +89,23 @@ body{
     height: 50px;
     width: 200px;
 }
-/* .state img1{
-
-    border: 2px solid rgb(0, 0, 15);
+.state{
+    width: 80%;
+    height: 100%;
+    margin-top:40px;
+    min-height: 400px;
+    float: left;
+/*     border: 2px solid rgb(0, 0, 15);
     margin-top:20px;
     margin-left:20px;
     padding-top:20px;
     padding-left:20px;
-/*     height: 500px;
-    width: 500px; */
+    height: 500px;
+    width: 500px;
     float: center;
-/*     margin-right: 10px; */
-    box-shadow: 10px 10px 10px gray;
-} */
+    margin-right: 10px;
+    box-shadow: 10px 10px 10px gray; */
+} 
 
 .fam{
 
