@@ -89,7 +89,7 @@ body{
     height: 50px;
     width: 200px;
 }
-.state{
+.state img{
 
     border: 2px solid rgb(0, 0, 15);
     margin-top:20px;
@@ -99,7 +99,7 @@ body{
 /*     height: 500px;
     width: 500px; */
     float: center;
-    margin-right: 10px;
+/*     margin-right: 10px; */
     box-shadow: 10px 10px 10px gray;
 }
 .fam{
