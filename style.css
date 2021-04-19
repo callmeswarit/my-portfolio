@@ -117,9 +117,8 @@ body{
 .imgsforplaces{
     margin: 5px;
     margin-bottom: 40px;
-    border: 2px solid blue;
     float: left;
-    width: 320 px;
+    width: 320px;
     height: auto;
 }
 .imgsforplaces desc{
