@@ -121,15 +121,16 @@ body{
     width: 320px;
     height: auto;
 }
-.imgsforplaces desc{
-    padding: 15px;
-    text-align: center;
-    ]
+
 .imgsforplaces img
     {
-           height: 200px;
+            height: 200px;
             width: 300px;
             margin: 20px;
             border: 2px solid  black;
             float: left;
     }
+.imgsforplaces desc{
+    padding: 15px;
+    text-align: center;
+}
